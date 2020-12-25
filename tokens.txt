@@ -1,0 +1,563 @@
+[
+  {
+    "val": "======================pos======================"
+  },
+  {
+    "value": "*",
+    "occurences": 3452419
+  },
+  {
+    "value": "一般",
+    "occurences": 600966
+  },
+  {
+    "value": "名詞",
+    "occurences": 494998
+  },
+  {
+    "value": "助詞",
+    "occurences": 487218
+  },
+  {
+    "value": "記号",
+    "occurences": 312672
+  },
+  {
+    "value": "動詞",
+    "occurences": 255665
+  },
+  {
+    "value": "自立",
+    "occurences": 228884
+  },
+  {
+    "value": "格助詞",
+    "occurences": 220693
+  },
+  {
+    "value": "助動詞",
+    "occurences": 175815
+  },
+  {
+    "value": "読点",
+    "occurences": 102111
+  },
+  {
+    "value": "非自立",
+    "occurences": 97563
+  },
+  {
+    "value": "句点",
+    "occurences": 79179
+  },
+  {
+    "value": "接続助詞",
+    "occurences": 74801
+  },
+  {
+    "value": "係助詞",
+    "occurences": 68715
+  },
+  {
+    "value": "連体化",
+    "occurences": 61857
+  },
+  {
+    "value": "副詞",
+    "occurences": 45355
+  },
+  {
+    "value": "接尾",
+    "occurences": 44769
+  },
+  {
+    "value": "固有名詞",
+    "occurences": 44473
+  },
+  {
+    "value": "括弧閉",
+    "occurences": 41859
+  },
+  {
+    "value": "括弧開",
+    "occurences": 41183
+  },
+  {
+    "value": "代名詞",
+    "occurences": 38642
+  },
+  {
+    "value": "人名",
+    "occurences": 38596
+  },
+  {
+    "value": "サ変接続",
+    "occurences": 33965
+  },
+  {
+    "value": "名",
+    "occurences": 33162
+  },
+  {
+    "value": "副詞可能",
+    "occurences": 27439
+  },
+  {
+    "value": "形容詞",
+    "occurences": 24585
+  },
+  {
+    "value": "助詞類接続",
+    "occurences": 21285
+  },
+  {
+    "value": "終助詞",
+    "occurences": 17868
+  },
+  {
+    "value": "形容動詞語幹",
+    "occurences": 16903
+  },
+  {
+    "value": "連体詞",
+    "occurences": 15135
+  },
+  {
+    "value": "数",
+    "occurences": 14831
+  },
+  {
+    "value": "接続詞",
+    "occurences": 13632
+  },
+  {
+    "value": "引用",
+    "occurences": 13378
+  },
+  {
+    "value": "副助詞",
+    "occurences": 13025
+  },
+  {
+    "value": "助数詞",
+    "occurences": 11666
+  },
+  {
+    "value": "副助詞／並立助詞／終助詞",
+    "occurences": 11260
+  },
+  {
+    "value": "副詞化",
+    "occurences": 11121
+  },
+  {
+    "value": "助動詞語幹",
+    "occurences": 10469
+  },
+  {
+    "value": "並立助詞",
+    "occurences": 7781
+  },
+  {
+    "value": "連語",
+    "occurences": 6261
+  },
+  {
+    "value": "空白",
+    "occurences": 6046
+  },
+  {
+    "value": "感動詞",
+    "occurences": 5424
+  },
+  {
+    "value": "接頭詞",
+    "occurences": 5348
+  },
+  {
+    "value": "組織",
+    "occurences": 4671
+  },
+  {
+    "value": "名詞接続",
+    "occurences": 4498
+  },
+  {
+    "value": "姓",
+    "occurences": 3071
+  },
+  {
+    "value": "ナイ形容詞語幹",
+    "occurences": 1222
+  },
+  {
+    "value": "特殊",
+    "occurences": 1105
+  },
+  {
+    "value": "フィラー",
+    "occurences": 1066
+  },
+  {
+    "value": "地域",
+    "occurences": 1024
+  },
+  {
+    "value": "数接続",
+    "occurences": 654
+  },
+  {
+    "value": "アルファベット",
+    "occurences": 561
+  },
+  {
+    "value": "国",
+    "occurences": 311
+  },
+  {
+    "value": "動詞接続",
+    "occurences": 164
+  },
+  {
+    "value": "動詞非自立的",
+    "occurences": 156
+  },
+  {
+    "value": "接続詞的",
+    "occurences": 62
+  },
+  {
+    "value": "縮約",
+    "occurences": 46
+  },
+  {
+    "value": "形容詞接続",
+    "occurences": 32
+  },
+  {
+    "value": "その他",
+    "occurences": 4
+  },
+  {
+    "value": "間投",
+    "occurences": 4
+  },
+  {
+    "val": "======================conjForm======================"
+  },
+  {
+    "value": "*",
+    "occurences": 1380852
+  },
+  {
+    "value": "基本形",
+    "occurences": 198683
+  },
+  {
+    "value": "連用形",
+    "occurences": 114537
+  },
+  {
+    "value": "連用タ接続",
+    "occurences": 76779
+  },
+  {
+    "value": "未然形",
+    "occurences": 28641
+  },
+  {
+    "value": "体言接続",
+    "occurences": 10820
+  },
+  {
+    "value": "連用テ接続",
+    "occurences": 8588
+  },
+  {
+    "value": "仮定形",
+    "occurences": 4937
+  },
+  {
+    "value": "未然ウ接続",
+    "occurences": 3767
+  },
+  {
+    "value": "ガル接続",
+    "occurences": 1968
+  },
+  {
+    "value": "未然レル接続",
+    "occurences": 1678
+  },
+  {
+    "value": "連用ニ接続",
+    "occurences": 1129
+  },
+  {
+    "value": "命令ｅ",
+    "occurences": 935
+  },
+  {
+    "value": "命令ｉ",
+    "occurences": 699
+  },
+  {
+    "value": "命令ｒｏ",
+    "occurences": 495
+  },
+  {
+    "value": "文語基本形",
+    "occurences": 424
+  },
+  {
+    "value": "体言接続特殊２",
+    "occurences": 393
+  },
+  {
+    "value": "未然ヌ接続",
+    "occurences": 326
+  },
+  {
+    "value": "連用デ接続",
+    "occurences": 299
+  },
+  {
+    "value": "命令ｙｏ",
+    "occurences": 268
+  },
+  {
+    "value": "音便基本形",
+    "occurences": 212
+  },
+  {
+    "value": "仮定縮約２",
+    "occurences": 170
+  },
+  {
+    "value": "仮定縮約１",
+    "occurences": 117
+  },
+  {
+    "value": "体言接続特殊",
+    "occurences": 105
+  },
+  {
+    "value": "未然特殊",
+    "occurences": 47
+  },
+  {
+    "value": "連用ゴザイ接続",
+    "occurences": 35
+  },
+  {
+    "value": "現代基本形",
+    "occurences": 7
+  },
+  {
+    "value": "基本形-促音便",
+    "occurences": 6
+  },
+  {
+    "val": "======================conjType======================"
+  },
+  {
+    "value": "*",
+    "occurences": 1380852
+  },
+  {
+    "value": "特殊・タ",
+    "occurences": 97361
+  },
+  {
+    "value": "一段",
+    "occurences": 92406
+  },
+  {
+    "value": "五段・ラ行",
+    "occurences": 46066
+  },
+  {
+    "value": "特殊・ダ",
+    "occurences": 37204
+  },
+  {
+    "value": "五段・ワ行促音便",
+    "occurences": 27900
+  },
+  {
+    "value": "サ変・スル",
+    "occurences": 25410
+  },
+  {
+    "value": "特殊・ナイ",
+    "occurences": 18298
+  },
+  {
+    "value": "五段・カ行イ音便",
+    "occurences": 17501
+  },
+  {
+    "value": "形容詞・アウオ段",
+    "occurences": 17350
+  },
+  {
+    "value": "五段・サ行",
+    "occurences": 16433
+  },
+  {
+    "value": "不変化型",
+    "occurences": 8741
+  },
+  {
+    "value": "五段・マ行",
+    "occurences": 7710
+  },
+  {
+    "value": "形容詞・イ段",
+    "occurences": 5930
+  },
+  {
+    "value": "五段・カ行促音便",
+    "occurences": 4313
+  },
+  {
+    "value": "五段・タ行",
+    "occurences": 4080
+  },
+  {
+    "value": "カ変・クル",
+    "occurences": 4016
+  },
+  {
+    "value": "特殊・デス",
+    "occurences": 3602
+  },
+  {
+    "value": "特殊・マス",
+    "occurences": 3548
+  },
+  {
+    "value": "五段・バ行",
+    "occurences": 3320
+  },
+  {
+    "value": "特殊・タイ",
+    "occurences": 1903
+  },
+  {
+    "value": "形容詞・イイ",
+    "occurences": 1793
+  },
+  {
+    "value": "特殊・ヌ",
+    "occurences": 1695
+  },
+  {
+    "value": "一段・クレル",
+    "occurences": 1579
+  },
+  {
+    "value": "五段・ガ行",
+    "occurences": 1496
+  },
+  {
+    "value": "カ変・来ル",
+    "occurences": 1330
+  },
+  {
+    "value": "五段・ラ行特殊",
+    "occurences": 1305
+  },
+  {
+    "value": "特殊・ジャ",
+    "occurences": 1076
+  },
+  {
+    "value": "五段・ナ行",
+    "occurences": 673
+  },
+  {
+    "value": "五段・ラ行アル",
+    "occurences": 589
+  },
+  {
+    "value": "文語・ベシ",
+    "occurences": 465
+  },
+  {
+    "value": "サ変・−スル",
+    "occurences": 207
+  },
+  {
+    "value": "文語・ナリ",
+    "occurences": 181
+  },
+  {
+    "value": "文語・リ",
+    "occurences": 98
+  },
+  {
+    "value": "文語・キ",
+    "occurences": 91
+  },
+  {
+    "value": "下二・タ行",
+    "occurences": 88
+  },
+  {
+    "value": "文語・ル",
+    "occurences": 78
+  },
+  {
+    "value": "特殊・ヤ",
+    "occurences": 45
+  },
+  {
+    "value": "五段・ワ行ウ音便",
+    "occurences": 40
+  },
+  {
+    "value": "一段・得ル",
+    "occurences": 34
+  },
+  {
+    "value": "五段・カ行促音便ユク",
+    "occurences": 30
+  },
+  {
+    "value": "サ変・−ズル",
+    "occurences": 25
+  },
+  {
+    "value": "文語・ゴトシ",
+    "occurences": 21
+  },
+  {
+    "value": "文語・ケリ",
+    "occurences": 11
+  },
+  {
+    "value": "ラ変",
+    "occurences": 7
+  },
+  {
+    "value": "上二・ダ行",
+    "occurences": 7
+  },
+  {
+    "value": "下二・ダ行",
+    "occurences": 4
+  },
+  {
+    "value": "文語・マジ",
+    "occurences": 3
+  },
+  {
+    "value": "四段・ハ行",
+    "occurences": 1
+  },
+  {
+    "value": "下二・ガ行",
+    "occurences": 1
+  }
+]
